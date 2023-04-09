@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Essay-Writing"
+    }
+  },
+  "defaultProject": "Essay-Writing",
+  "cli": {
+    "analytics": false
+  }
 }
